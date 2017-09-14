@@ -28,6 +28,7 @@ code_folder: 代码文件夹地址
 
 # <mark>注意</mark>
 
-####若提示ag命令找不到，请安装ag库。可用brew安装，命令如下：
+
+#### 若提示ag命令找不到，请安装ag库。可用brew安装，命令如下：
 
 > ### brew install ag
